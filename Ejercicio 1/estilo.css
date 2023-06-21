@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+ol {
+    font-size: small;
+}
+img {
+    image-orientation: flip;
+    border: crimson;
+}
+p {
+    font-style: italic;
+}

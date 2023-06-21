@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
+
+ol {
+    font-size: large   ;  
+}
+
+img {
+    width: 50%;
+    height: auto;     
+}
+
+p {
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
